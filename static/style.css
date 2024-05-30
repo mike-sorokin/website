@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif; 
+    max-width: 600px;
+    margin: auto;
+    padding: 0 16px;
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-width: 0 0 2px 0;
+    font-family: serif;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+}
+
+a {
+    color: dodgerblue;
+    text-decoration: none;
+}

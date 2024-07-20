@@ -1,8 +1,8 @@
 body {
     font-family: sans-serif; 
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
-    padding: 0 16px;
+    padding: 0 5%;
 }
 
 h1 {
@@ -15,8 +15,6 @@ h1 {
 ul {
     display: flex;
     flex-direction: column;
-    gap: 4px;
-
 }
 
 a {
